@@ -2,5 +2,6 @@
 Aula 4 - DevOps
 Filmes favoritos:
 Liga da Justiça
-Batman vs Superman
+Catwoman
 300
+Avengers
